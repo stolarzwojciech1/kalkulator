@@ -1,4 +1,8 @@
-{console.log("Cześć");
+{
+    const welcome = () =>{
+    console.log("Cześć");
+    }
+    welcome();
 const usdElement = document.querySelector(".js-usd");
 const euroElement = document.querySelector(".js-euro");
 const formElement = document.querySelector(".form");
