@@ -21,16 +21,20 @@ html {
     padding: 10px 10px
     font-size: 20px;*/
     line-height: 1.5;
-     background-color: rgb(128, 165, 42);
+     background-image: url("../images/banknoty.jpg");
     font-family:  'Lato', sans-serif;
     font-style: italic;
     display: flex;
+    background-repeat: repeat;
+    background-position: center;
 }
 
 .container{
 max-width: 700px;
 margin: 0px auto;
 padding: 0 20px;
+background-color: antiquewhite;
+
 }
 
 .form{
